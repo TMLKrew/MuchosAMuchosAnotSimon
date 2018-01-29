@@ -1,0 +1,10 @@
+es\albarregas\controllers\Controlador.class
+es\albarregas\daofactory\MySQLDAOFactory.class
+es\albarregas\beans\Modulo.class
+es\albarregas\beans\Profesor.class
+es\albarregas\controllers\Eleccion.class
+es\albarregas\dao\IGenericoDAO.class
+es\albarregas\daofactory\DAOFactory.class
+es\albarregas\dao\GenericoDAO.class
+es\albarregas\controllers\Conclusion.class
+es\albarregas\persistencia\HibernateUtil.class
